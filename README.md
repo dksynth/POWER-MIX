@@ -1,4 +1,4 @@
 # OBL-MIX
 an "Obelisk" replacement for STS Serge systems/boats
 
-![obelisk panel + PCB](https://user-images.githubusercontent.com/14189382/152060146-1cac3bc6-0328-4f0f-b41d-329bc3306041.png)
+![full obelisk both sides](https://user-images.githubusercontent.com/14189382/152061211-d29b5799-20cb-4568-9925-278881f1e89a.png)
