@@ -3,7 +3,7 @@ an "Obelisk" style replacement for STS Serge systems/boats
 
 DISCLAIMER: If you choose to use these files it is at your own risk! Don't mess with things if you don't know what you are doing! 
 
-ALSO: The panel file provided DOES NOT have the serge-style swoops. That's just what I used for my system. They are easily found if you want to add them. Or make your own design! 
+ALSO: The panel file provided DOES NOT have the serge-style swoops. That's just what I used for my system. They are easily found if you want to add them. Or make your own design! the EagleCAD files for the panel can be found in the Panel folder. 
 
 ![FULL POWER_MIX](https://user-images.githubusercontent.com/14189382/152086013-0218dee9-e2ff-4ea6-9a9d-aae0ae721607.png)
 
