@@ -1,7 +1,7 @@
 # POWER - MIX
 an "Obelisk" style replacement for STS Serge systems/boats
 
-Disclaimer: If you choose to use these files it is at your own risk! Don't mess with things if you don't know what you are doing! 
+DISCLAIMER: If you choose to use these files it is at your own risk! Don't mess with things if you don't know what you are doing! 
 
 ALSO: The panel file provided DOES NOT have the serge-style swoops. That's just what I used for my system. They are easily found if you want to add them. Or make your own design! 
 
