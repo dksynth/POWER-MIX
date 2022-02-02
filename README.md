@@ -11,6 +11,8 @@ This is a simple processor style mixer with manual offset to replace an Obelisk 
 Power distribution is via 3.96mm headers on the back so adapters have to be made from that style to the STS standard AMP connectors. 
 (the vertical PCB mount AMP connectors are simply too big to use).
 
+The gerbers can be found in the PRODUCTION folder. JLCPCB is recommended and they can do "aluminimum PCB" for the panel. 
+
 To make power harness adaptors:
 
 FROM POW-MIX:
