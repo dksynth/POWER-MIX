@@ -10,12 +10,17 @@ Power distribution is via 3.96mm headers on the back so adapters have to be made
 To make power harness adaptors:
 
 FROM POW-MIX:
+
 Wafer Connector 3.96mm 4 Pins SKU A-778 (tayda)
+
 Crimp Terminal Connector 3.96mm SKU A-803 (tayda)
+
 Housing Connector 3.96mm 4 Pins SKU A-796 (tayda)
 
 TO STS SERGE: 
+
 Female crimp socket 770146-1 (mouser, digikey)
+
 Receptable M 7700751 (mouser, digikey)
 
 
