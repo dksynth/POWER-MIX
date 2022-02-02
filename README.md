@@ -3,6 +3,10 @@ an "Obelisk" style replacement for STS Serge systems/boats
 
 Disclaimer: If you choose to use these files it is at your own risk! Don't mess with things if you don't know what you are doing! 
 
+ALSO: The panel file provided DOES NOT have the serge-style swoops. They are easily found if you want to add them. Or make your own design! 
+
+![FULL POWER_MIX](https://user-images.githubusercontent.com/14189382/152086013-0218dee9-e2ff-4ea6-9a9d-aae0ae721607.png)
+
 This is a simple processor style mixer with manual offset to replace an Obelisk power panel with something some may find more useful. 
 Power distribution is via 3.96mm headers on the back so adapters have to be made from that style to the STS standard AMP connectors. 
 (the vertical PCB mount AMP connectors are simply too big to use).
@@ -46,7 +50,4 @@ Whatever you prefer as mezzanine connectors between front and rear PCB boards. (
 The panel PCB for this contains a number of components that sit at different heights. The body of a banana jack is about 12 mm before the metal tab. 
 I prefer to use the combination of a 10mm mf spacer (tayda SKU A-1265) with a 2mm insulation bushing (tayda SKU A-1436) between panel and panel PCB and then a 10mm ff spacer (tayda SKU A-1242). You'll need some M3 screws as well (tayda SKU A-1250).
 
-
-
-
-
+![POWER-MIX Schematics](https://user-images.githubusercontent.com/14189382/152085439-753cea45-621d-4933-84f5-4ffa4fae0cab.png)
